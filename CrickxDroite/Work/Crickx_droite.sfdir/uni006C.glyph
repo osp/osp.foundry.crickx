@@ -1,0 +1,28 @@
+
+StartChar: uni006C
+Encoding: 108 108 46
+Width: 479
+VWidth: 0
+InSpiro: 1
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+126.432 498.551 m 1
+ 123.582 0 l 1
+ 364.312 2.84863 l 1
+ 368.585 136.746 l 1
+ 254.631 135.321 l 1
+ 256.055 498.551 l 1
+ 126.432 498.551 l 1
+  Spiro
+    126.432 498.55 v
+    123.583 0 v
+    364.311 2.84886 v
+    368.585 136.745 v
+    254.63 135.321 v
+    256.055 498.55 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

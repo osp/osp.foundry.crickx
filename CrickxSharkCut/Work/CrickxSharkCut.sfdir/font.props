@@ -1,0 +1,522 @@
+SplineFontDB: 3.0
+FontName: CrickxSharkCut
+FullName: Crickx SharkCut
+FamilyName: Crickx
+Weight: SharkCut
+Copyright: Copyright (c) Hammerfonts/Speculoos/Open Source Publishing, 2002-2011. All rights reserved.
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -113
+UnderlineWidth: 20
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 1 "Arri+AOgA-re"  1
+Layer: 1 1 "Avant"  0
+XUID: [1021 102 386186274 14356673]
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1053073680
+ModificationTime: 1303481563
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 1
+LineGap: 68
+VLineGap: 0
+Panose: 2 0 5 0 4 0 0 2 0 4
+OS2TypoAscent: -100
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 68
+OS2WinAscent: -4
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: -100
+HheadAOffset: 1
+HheadDescent: 1
+HheadDOffset: 1
+OS2SubXSize: 700
+OS2SubYSize: 650
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 700
+OS2SupYSize: 650
+OS2SupXOff: 0
+OS2SupYOff: 477
+OS2StrikeYSize: 50
+OS2StrikeYPos: 250
+OS2Vendor: 'pyrs'
+OS2CodePages: 20000111.41000000
+OS2UnicodeRanges: 800000af.4000a068.00000000.00000000
+Lookup: 258 0 0 "'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  {"sous-table 'kern' Cr+AOkA-nage horizontal dans Latin lookup 0"  } ['kern' ('latn' <'dflt' > ) ]
+DEI: 91125
+TtTable: prep
+PUSHW_1
+ 0
+CALL
+SVTCA[y-axis]
+PUSHW_3
+ 1
+ 2
+ 2
+CALL
+SVTCA[x-axis]
+PUSHW_3
+ 3
+ 2
+ 2
+CALL
+SVTCA[x-axis]
+PUSHW_8
+ 3
+ 33
+ 29
+ 23
+ 17
+ 11
+ 0
+ 8
+CALL
+PUSHW_8
+ 4
+ 64
+ 53
+ 41
+ 30
+ 18
+ 0
+ 8
+CALL
+SVTCA[y-axis]
+PUSHW_8
+ 1
+ 38
+ 29
+ 23
+ 17
+ 11
+ 0
+ 8
+CALL
+PUSHW_8
+ 2
+ 42
+ 35
+ 27
+ 17
+ 11
+ 0
+ 8
+CALL
+SVTCA[y-axis]
+PUSHW_3
+ 5
+ 4
+ 7
+CALL
+PUSHW_1
+ 0
+DUP
+RCVT
+RDTG
+ROUND[Black]
+RTG
+WCVTP
+EndTTInstrs
+TtTable: fpgm
+PUSHW_1
+ 0
+FDEF
+MPPEM
+PUSHW_1
+ 9
+LT
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+PUSHW_1
+ 511
+SCANCTRL
+PUSHW_1
+ 68
+SCVTCI
+PUSHW_2
+ 9
+ 3
+SDS
+SDB
+ENDF
+PUSHW_1
+ 1
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 2
+FDEF
+PUSHW_1
+ 1
+LOOPCALL
+POP
+ENDF
+PUSHW_1
+ 3
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+EIF
+DUP
+ROLL
+DUP
+ROLL
+MD[grid]
+ABS
+ROLL
+DUP
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+GT
+IF
+SWAP
+NEG
+ROLL
+EIF
+MDAP[rnd]
+DUP
+PUSHB_1
+ 0
+GTEQ
+IF
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+EIF
+ELSE
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+NEG
+EIF
+EIF
+MSIRP[no-rp0]
+ENDF
+PUSHW_1
+ 4
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+ROLL
+EIF
+DUP
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+GT
+IF
+SWAP
+ROLL
+EIF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHW_1
+ 5
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+LT
+IF
+LTEQ
+IF
+PUSHB_1
+ 128
+WCVTP
+ELSE
+PUSHB_1
+ 64
+WCVTP
+EIF
+ELSE
+POP
+POP
+DUP
+RCVT
+PUSHB_1
+ 192
+LT
+IF
+PUSHB_1
+ 192
+WCVTP
+ELSE
+POP
+EIF
+EIF
+ENDF
+PUSHW_1
+ 6
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+DUP
+DUP
+RCVT
+RDTG
+ROUND[Black]
+RTG
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 7
+FDEF
+PUSHW_1
+ 6
+LOOPCALL
+ENDF
+PUSHW_1
+ 8
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 64
+ELSE
+PUSHB_1
+ 0
+EIF
+ROLL
+ROLL
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHB_1
+ 128
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 192
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 256
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 320
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHW_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 3
+CINDEX
+RCVT
+PUSHW_1
+ 384
+LT
+IF
+SWAP
+POP
+PUSHW_1
+ 384
+SWAP
+POP
+ELSE
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SWAP
+POP
+SWAP
+POP
+EIF
+ELSE
+POP
+EIF
+WCVTP
+ENDF
+PUSHW_1
+ 9
+FDEF
+MPPEM
+GTEQ
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+EndTTInstrs
+ShortTable: cvt  13
+  20
+  147
+  132
+  168
+  86
+  0
+  8
+  -200
+  1
+  441
+  31
+  654
+  13
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  245
+  122
+  3
+  0
+  0
+  1
+  0
+  0
+  10
+  0
+  512
+  371
+  0
+  0
+EndShort
+LangName: 1033 "" "" "" "" "" "Version 001.000" 
+GaspTable: 3 8 2 16 1 65535 3
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 57 19 8
+EndSplineFont
