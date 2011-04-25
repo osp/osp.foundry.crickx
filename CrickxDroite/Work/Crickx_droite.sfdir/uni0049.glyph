@@ -1,23 +1,23 @@
 
 StartChar: uni0049
 Encoding: 73 73 17
-Width: 384
+Width: 244
 VWidth: 0
 InSpiro: 1
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-122.24 666.24 m 1
- 266.24 666.24 l 1
- 252.8 0 l 1
- 122.24 0 l 1
- 122.24 666.24 l 1
+50 666.24 m 1
+ 194 666.24 l 1
+ 180.56 0 l 1
+ 50 0 l 1
+ 50 666.24 l 1
   Spiro
-    122.24 666.24 v
-    266.24 666.24 v
-    252.8 0 v
-    122.24 0 v
+    49.9995 666.24 v
+    194 666.24 v
+    180.56 0 v
+    49.9995 0 v
     0 0 z
   EndSpiro
 EndSplineSet

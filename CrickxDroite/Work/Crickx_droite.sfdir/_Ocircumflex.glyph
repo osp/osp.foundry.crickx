@@ -3,8 +3,9 @@ StartChar: Ocircumflex
 Encoding: 212 212 99
 Width: 611
 VWidth: 0
+Flags: H
 LayerCount: 2
 Fore
-Refer: 95 94 N 1 0 0 1 17.5497 60.6994 2
+Refer: 95 94 N 1 0 0 1 65.5497 13.6994 2
 Refer: 23 79 N 1 0 0 1 0 0 3
 EndChar

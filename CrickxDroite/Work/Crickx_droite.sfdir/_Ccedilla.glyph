@@ -1,10 +1,11 @@
 
 StartChar: Ccedilla
 Encoding: 199 199 98
-Width: 476
+Width: 451
 VWidth: 0
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 84 184 S 1 0 0 1 20.8574 6.52914 2
+Refer: 84 184 S 1 0 0 1 10.859 6.52914 2
 Refer: 11 67 N 1 0 0 1 0 0 3
 EndChar
