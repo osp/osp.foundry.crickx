@@ -1,9 +1,9 @@
 
 StartChar: quotesingle
-Encoding: 39 39 83
-Width: 1000
+Encoding: 39 39 82
+Width: 283
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
