@@ -1,21 +1,21 @@
 
 StartChar: exclam
 Encoding: 33 33 110
-Width: 1000
+Width: 283
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-219 666 m 1
- 219 185 l 1
- 76 185 l 1
- 78 666 l 1
- 219 666 l 1
-218 134 m 1
- 218 0 l 1
- 77 0 l 1
- 77 134 l 1
- 218 134 l 1
+223 666 m 5
+ 223 185 l 5
+ 80 185 l 5
+ 82 666 l 5
+ 223 666 l 5
+222 134 m 5
+ 222 0 l 5
+ 81 0 l 5
+ 81 134 l 5
+ 222 134 l 5
 EndSplineSet
 EndChar

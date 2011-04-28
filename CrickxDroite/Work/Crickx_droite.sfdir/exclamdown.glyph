@@ -1,21 +1,21 @@
 
 StartChar: exclamdown
 Encoding: 161 161 111
-Width: 1000
+Width: 283
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-219 0 m 1
- 219 481 l 1
- 76 481 l 1
- 77 0 l 1
- 219 0 l 1
-218 532 m 1
- 218 666 l 1
- 77 666 l 1
- 77 532 l 1
- 218 532 l 1
+223 0 m 5
+ 223 481 l 5
+ 80 481 l 5
+ 82 0 l 5
+ 223 0 l 5
+222 532 m 5
+ 222 666 l 5
+ 81 666 l 5
+ 81 532 l 5
+ 222 532 l 5
 EndSplineSet
 EndChar

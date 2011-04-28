@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1302699813
-ModificationTime: 1303835241
+ModificationTime: 1303991659
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,20 +50,6 @@ AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 19 8
 Grid
--1000 1086 m 0
- 2000 1086 l 0
-  Spiro
-    -1000 1086 {
-    2000 1086 o
-    0 0 z
-  EndSpiro
--1000 1120 m 0
- 2000 1120 l 0
-  Spiro
-    -1000 1120 {
-    2000 1120 o
-    0 0 z
-  EndSpiro
 -1000 766 m 0
  2000 766 l 0
   Spiro

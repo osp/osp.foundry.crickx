@@ -1,26 +1,26 @@
 
 StartChar: guillemotright
 Encoding: 187 187 88
-Width: 1000
+Width: 572
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-194 0 m 5
- 54 0 l 5
- 152 195 l 5
- 44 399 l 5
- 188 399 l 5
- 298 211 l 5
- 350 211 l 5
- 264 400 l 5
- 404 400 l 5
- 502 196 l 5
- 407 0 l 5
- 260 0 l 5
- 342 174 l 5
- 291 174 l 5
- 194 0 l 5
+194 0 m 1
+ 54 0 l 1
+ 152 195 l 1
+ 44 399 l 1
+ 188 399 l 1
+ 298 211 l 1
+ 350 211 l 1
+ 264 400 l 1
+ 404 400 l 1
+ 502 196 l 1
+ 407 0 l 1
+ 260 0 l 1
+ 342 174 l 1
+ 291 174 l 1
+ 194 0 l 1
 EndSplineSet
 EndChar
