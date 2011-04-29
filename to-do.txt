@@ -1,5 +1,2 @@
-- check approches
-- ajout des accentuées
-- trouver un nom pour les versions droites
 - écrire un résumé FONTLOG en anglais (d'après le pdf "spécimen)
-- voir si on inclut les versions tests 
+ 

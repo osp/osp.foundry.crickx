@@ -1,16 +1,16 @@
 
 StartChar: underscore
 Encoding: 95 95 108
-Width: 1000
+Width: 655
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-76 -21 m 1
- 650 -21 l 5
- 651 -162 l 5
- 76 -162 l 1
- 76 -21 l 1
+40 -21 m 1
+ 614 -21 l 1
+ 615 -162 l 1
+ 40 -162 l 1
+ 40 -21 l 1
 EndSplineSet
 EndChar
