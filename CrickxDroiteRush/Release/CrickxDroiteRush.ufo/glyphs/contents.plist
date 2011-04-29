@@ -154,5 +154,7 @@
 	<string>grave.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
     </dict>
 </plist>
