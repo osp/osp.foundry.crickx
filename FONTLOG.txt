@@ -1,4 +1,3 @@
-
 FONTLOG for OSP-Crickx
 -------------------
 This file provides detailed information on the OSP-Crickx font software.
@@ -12,10 +11,11 @@ OSP-Crickx is a digital reinterpretation of a set of adhesive letters.
 Publi Fluor shop was helded from father to daughter in the northern district of Brussels.
 During about fifty years these craft lettres have spreaded windows shop streets around and more.
 
-M. Christelle Crickx
-
-
-We recently added a straight version from the letters found in the of
+Pierre Huyghebaert recently acquired all the stock of M. Christelle Crickx
+before she retired. It has been shipped in a large cabinet to our studio.
+On these letters we have based our font. We have also found in this cabinet
+letters we have not seen before. Such as the straight version that we
+reinterpreted as CrickxDroit. And the upcoming: CrickxBlobby.
 
 see
 http://ospublish.constantvzw.org/foundry/crickx
