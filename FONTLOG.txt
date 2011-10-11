@@ -7,26 +7,41 @@ and any derivative works.
 Basic Font Information
 --------------------------
 Copyright (c) 2011, OSP (http://ospublish.constantvzw.org)
-OSP-Crickx is a digital reinterpretation of a set of adhesive letters. 
-Publi Fluor shop was helded from father to daughter in the northern district of Brussels.
-During about fifty years these craft lettres have spreaded windows shop streets around and more.
 
-Pierre Huyghebaert recently acquired all the stock of M. Christelle Crickx
-before she retired. It has been shipped in a large cabinet to our studio.
-On these letters we have based our font. We have also found in this cabinet
-letters we have not seen before. Such as the straight version that we
-reinterpreted as CrickxDroit. And the upcoming: CrickxBlobby.
+OSP-Crickx is a digital reinterpretation of a set of adhesive letters.
 
-see
-http://ospublish.constantvzw.org/foundry/crickx
+The Publi Fluor shop was situated in the northern part of Brussels,
+Schaerbeek, and founded by the father of Madame Christelle Crickx who
+was a trained letter painter. In his day he is—it seems—the first to propose
+fluorescent colors for shopwindow signs. It proves so difficult to paint
+letters on site with that kind of unstable coating that he develops a
+technique based on vinyl that he fluo-colors and cuts by hand in the
+workplace, then sticks at clients shops. Around 1975, his health degrades
+quickly and his daughter is forced to step into the business.
+
+Starting to cut letters with the rounded and skilled cardboard
+templates drawn by her father, Madame Crickx slowly morphs the shapes
+by analysing how typographic niceties confuse her non-trained clients
+and leads to bad letters placement. She progressively removes the
+optical compensation of rounded tops and bottoms, straightens sides,
+and attaches accents for less floating parts. Those moves add a very
+specific orientation to this otherwise quite common bold italic sans
+serif display typeface.
+
+During about fifty years these craft lettres have spread across the
+windows of shopping streets, more and more, and after the
+closure of the shop in the early noughties, they seem to still hold
+their own to the assaults of vector vinyl cutting technology.
+
+More on http://ospublish.constantvzw.org/foundry/crickx
 
 OSP-Crickx currently provides the following Unicode coverage:
-Basic Latin: 
-Latin-1 Supplement: 
+Basic Latin:
+Latin-1 Supplement:
 
 Information for Contributors
 ------------------------------
-Copyright (C) 2011 OSP 
+Copyright (C) 2011 OSP
 http://ospublish.constantvzw.org.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -46,14 +61,12 @@ order.)
 
 N: Pierre Huyghebaert
 E: pierre@speculoos.com
-W:  
+W: www.speculoos.com
 
 N: Ludivine Loiseau
 E: hello@ludi.be
-W: ludi.be 
+W: ludi.be
 
 N: Antoine Begon
 E: ant.begon@gmail.com
-W: begon.antoine.free.fr 
-
-
+W: begon.antoine.free.fr
