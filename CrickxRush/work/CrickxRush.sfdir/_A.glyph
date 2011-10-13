@@ -2,7 +2,7 @@
 StartChar: A
 Encoding: 65 65 43
 Width: 721
-Flags: W
+Flags: WO
 TtInstrs:
 PUSHW_4
  0
