@@ -1,7 +1,7 @@
 
 StartChar: fraction
 Encoding: 8260 8260 147
-AltUni2: 002215.ffffffff.0
+AltUni2: 002215.ffffffff.0 002215.ffffffff.0
 Width: 319
 Flags: W
 TtInstrs:

@@ -1,7 +1,7 @@
 
 StartChar: semicolon
 Encoding: 59 59 37
-AltUni2: 00037e.ffffffff.0
+AltUni2: 00037e.ffffffff.0 00037e.ffffffff.0
 Width: 316
 Flags: W
 LayerCount: 2
